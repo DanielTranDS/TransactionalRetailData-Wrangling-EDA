@@ -1,4 +1,6 @@
 # TransactionalRetailData-Wrangling-EDA
+
+(Go to https://github.com/DanielTranDS/TransactionalRetailData-Wrangling-EDA/blob/main/TransactionalRetail_Codes.ipynb for implementation)
 Data Wrangling, graphical &amp; non-graphical EDA methods to find and fix data problems for transactional retail data from an online electronics store, using Python
 
 In this project, I perform a very thorough and extensive data wrangling and cleansing in 3 datasets, in order to identify any data quality problems, any inconsistency among the attributes, and perform fixes. These 3 datasets contain transactional retail data from an online electronics store located in Melbourne, Australia. The store is exclusively online, and it has 3 warehouses around Melbourne from which goods are delivered to customers. In particular,
